@@ -5,7 +5,7 @@ The main objective/aim of this game is to get atleast one ball of any colour to 
 ## Instructions
 To run the project from the command line itself, one must execute
 ```java
-java -jar "PushBox.jar" 
+java -jar "dist/PushBox.jar" 
 ```
 ## Playing Instructions
 Use the keys `W`,`S`,`A`,`D` to move the ball up, down, left and right respectively
